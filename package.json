@@ -1,0 +1,29 @@
+{
+  "name": "uic",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "boxicons": "^2.1.4",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "roboto-fontface": "*",
+    "sass-loader": "^14.2.1",
+    "vue": "^3.4.0",
+    "vue-router": "^4.4.0",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^3.6.0-beta.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.77.6",
+    "unplugin-fonts": "^1.1.1",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.1.5",
+    "vite-plugin-vuetify": "^2.0.3"
+  }
+}
